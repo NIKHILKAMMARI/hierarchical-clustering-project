@@ -27,4 +27,16 @@ Create a hierarchy model and visualize the cluster with the help of matplot libr
 # Conclusion
 According to the model building as a engineer may prediction is cluster-3 has give highest no of linkage
 
+# Insights
+1.Cluster-1 contains (Red) which shows that unsupervised learning cluster as maximum distance from the centroid upto annual income approximate 139ks
+
+2.cluster-2 contain (blue) which show that unsupervised learning cluster as maximum distance from the centroid upto annual income approxiamte 79-80ks 
+
+3.cluster-3 contain (green) which contain that unsupervised learning cluster as maximum distance from  the centroid upto annual income approximate 139ks
+
+4.cluster-4 contain (cyan) which contain that unsupervised learning cluster as maximum distance from  the centroid upto annual income approximate 40ks
+
+5.cluster-5 contain (magenta) which contain that unsupervised learning cluster as maximum distance from  the centroid upto annual income approximate 40ks
+
+
 
